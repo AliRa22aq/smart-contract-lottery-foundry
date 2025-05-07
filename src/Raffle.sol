@@ -8,7 +8,7 @@ import {AutomationCompatibleInterface} from "@chainlink/contracts/src/v0.8/autom
 
 /**
  * @title A sample Raffle Contract
- * @author Patrick Collins
+ * @author Ali Razzaq
  * @notice This contract is for creating a sample raffle contract
  * @dev This implements the Chainlink VRF Version 2
  */
